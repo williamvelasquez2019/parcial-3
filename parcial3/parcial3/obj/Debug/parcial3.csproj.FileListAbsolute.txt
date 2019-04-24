@@ -1,0 +1,11 @@
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\bin\Debug\parcial3.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\bin\Debug\parcial3.exe
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\bin\Debug\parcial3.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.exe
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parcial3\parcial3\obj\Debug\parcial3.Form2.resources
